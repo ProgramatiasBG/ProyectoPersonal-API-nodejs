@@ -1,0 +1,28 @@
+{
+  "name": "proyectopersonal-api-nodejs",
+  "version": "1.0.0",
+  "description": "Proyecto personal iniciando con NODEJS, API de Rick and Morthy,arquitectura cliente-servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgramatiasBG/ProyectoPersonal-API-nodejs.git"
+  },
+  "keywords": [
+    "modelo",
+    "cliente",
+    "servidor",
+    "axios"
+  ],
+  "author": "ProgramatiasBg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProgramatiasBG/ProyectoPersonal-API-nodejs/issues"
+  },
+  "homepage": "https://github.com/ProgramatiasBG/ProyectoPersonal-API-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
